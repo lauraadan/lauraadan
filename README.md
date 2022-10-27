@@ -2,11 +2,8 @@
 I'm a Junior Frontend Web Developer working on web technologies 👨🏻‍💻
 
 ✨ About me
-Currently developing projects for my portfolio
-Looking to improve and create great stuff
+Currently in full development of my future as a Frontend Developer.
+
 📫 How to reach me
 Web: www.lauraadan.com
 
-LinkedIn: Laura Adán
-
-Instagram: @desarrolladora_enapuros
