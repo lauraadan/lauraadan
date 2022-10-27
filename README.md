@@ -1,13 +1,13 @@
-# 👋 Hi there!
+<h1>👋 Hi there!</h1>
 
 <h3>
 💻  I'm Laura Adán, a self-motivated tech enthusiast.
 </h3>
 
 <br/>
-<h2>
+<h3>
 🌱 Currently in full development of my future as a Frontend Developer.
-</h2>
+</h3>
 
 <br/>
 
