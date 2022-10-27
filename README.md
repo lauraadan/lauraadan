@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 <h3>
-💻  I'm Laura Adán, a self-motivated tech enthusiast and Frontend Web Developer.
+💻  I'm Laura Adán, a self-motivated tech enthusiast.
 </h3>
 
 <br/>
