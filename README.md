@@ -1,16 +1,16 @@
 # 👋 Hi there!
 
-<p align="center">
+<h3 align="center">
 💻  I'm Laura Adán, a self-motivated tech enthusiast and Frontend Web Developer.
-</p>
+</h3>
 
 <br/>
-<h3 align="center">
+<h2 align="center">
 🌱Currently in full development of my future as a Frontend Developer.
-</h3>
+</h2>
 
-<h3 align="center">
+<p align="center">
 Where you can find me: <a href="https://lauraadan.com">lauraadan.com</a>
-</h3>
+</p>
 
 
