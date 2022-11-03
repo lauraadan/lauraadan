@@ -1,16 +1,12 @@
 <h1>👋 Hi there!</h1>
-
 <h3>
 💻  I'm Laura Adán, a self-motivated tech enthusiast.
 </h3>
-
 <br/>
 <h3>
 🌱 Currently in full development of my future as a Frontend Developer.
 </h3>
-
 <br/>
-
 <h3> Here you can find some of my work: </h3>
 <p>
   
@@ -33,11 +29,6 @@
   - LEGO HARRY POTTER WEBSITE: https://lauraadan.github.io/PI_LegoPotter
   - BEHANCE PORTFOLIO: https://lauraadan.github.io/Adan_Laura_Week1_LABIronskydive-2/
   - SPOTIFY CLONE: https://lauraadan.github.io/lab-css-spotify-clone/
-  
-  
-  
-  
-  
 </p>
 
 <p>
