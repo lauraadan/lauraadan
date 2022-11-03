@@ -5,6 +5,7 @@
 <h3>
 🌱 Currently in full development of my future as a Frontend Developer.
 </h3>
+<br>
 <h3> Here you can find some of my work: </h3>
 <p>
   
