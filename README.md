@@ -15,6 +15,7 @@
   - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
   - CART: https://lauraadan.github.io/lab-dom-ironhack-cart/
+  - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
   - PROMISES:  https://lauraadan.github.io/lab-es6-promises/
   - MIDTERM IRONHACK: https://lauraadan.github.io/Mid-term-project_Adan_Laura/
