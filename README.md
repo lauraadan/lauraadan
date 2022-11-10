@@ -17,7 +17,6 @@
   - CART: https://lauraadan.github.io/lab-dom-ironhack-cart/
   - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
-  - PROMISES:  https://lauraadan.github.io/lab-es6-promises/
   - MIDTERM IRONHACK: https://lauraadan.github.io/Mid-term-project_Adan_Laura/
   
   HTML + CSS
