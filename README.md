@@ -18,7 +18,7 @@
   - TIC TAC TOE: https://lauraadan.github.io/tic-tac-toe-javascript/
   - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
-  - MIDTERM IRONHACK: https://lauraadan.github.io/Mid-term-project_Adan_Laura/
+  - MIDTERM IRONHACK: https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   
   HTML + CSS
   
