@@ -15,6 +15,7 @@
   - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
   - CART with JEST: https://lauraadan.github.io/Cart-with-Jest/
+  - CALCULATOR with JAVASCRIPT: https://lauraadan.github.io/Calculator-with-Javascript/
   - TIC TAC TOE: https://lauraadan.github.io/tic-tac-toe-javascript/
   - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
