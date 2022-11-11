@@ -14,7 +14,7 @@
   - POKEAGENDA with POKEAPI and VUE 3: https://pokeagenda-6i7dy0j5k-lauraadan.vercel.app/ 
   - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
-  - CART: https://lauraadan.github.io/lab-dom-ironhack-cart/
+  - CART: https://lauraadan.github.io/Cart-with-Jest/
   - TIC TAC TOE: https://lauraadan.github.io/tic-tac-toe-javascript/
   - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
