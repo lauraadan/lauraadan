@@ -21,11 +21,11 @@
   - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
   - MIDTERM IRONHACK: https://lauraadan.github.io/mid-term-ironhack-adan-laura/
+  - TAB BAR ANIMATION: https://lauraadan.github.io/Tab_Bar_Animation/
   
   HTML + CSS
   
   - PRIMAVERA SOUND WEBSITE:  https://lauraadan.github.io/Primavera_Sound_Website/
-  - TAB BAR ANIMATION: https://lauraadan.github.io/Tab_Bar_Animation/
   - INTERACTIVE FORM: https://lauraadan.github.io/Slide-Sign-In-Sign-Up/
   - DRAGGABLE NAVIGATION MENU: https://lauraadan.github.io/Draggble-Navigation-Menu/
   - LEGO HARRY POTTER WEBSITE: https://lauraadan.github.io/PI_LegoPotter
