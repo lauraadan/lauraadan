@@ -27,7 +27,7 @@
   - INTERACTIVE FORM: https://lauraadan.github.io/Slide-Sign-In-Sign-Up/
   - DRAGGABLE NAVIGATION MENU: https://lauraadan.github.io/Draggble-Navigation-Menu/
   - LEGO HARRY POTTER WEBSITE: https://lauraadan.github.io/PI_LegoPotter
-  - BEHANCE PORTFOLIO: https://lauraadan.github.io/Adan_Laura_Week1_LABIronskydive-2/
+  - BEHANCE PORTFOLIO: https://lauraadan.github.io/Behance_Portfolio/
 </p>
 
 <p>
