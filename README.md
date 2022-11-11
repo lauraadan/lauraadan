@@ -37,3 +37,10 @@ Where you can find me: <a href="https://lauraadan.com">lauraadan.com</a>
 </p>
 
 
+![Captura de pantalla 2022-11-11 a las 16 57 15](https://user-images.githubusercontent.com/86961241/201380416-1e84c4ed-8544-433e-b710-ed33776d334c.png)
+![Captura de pantalla 2022-11-11 a las 16 57 22](https://user-images.githubusercontent.com/86961241/201380419-1ea1937c-7d9d-4f17-b41d-01059a668f0c.png)
+![Captura de pantalla 2022-11-11 a las 16 57 49](https://user-images.githubusercontent.com/86961241/201380422-eff1d7f5-78cd-4039-acce-221897874163.png)
+![Captura de pantalla 2022-11-11 a las 16 57 54](https://user-images.githubusercontent.com/86961241/201380425-94673f5a-c284-4a1b-b6d5-1273150d7277.png)
+![Captura de pantalla 2022-11-11 a las 16 57 59](https://user-images.githubusercontent.com/86961241/201380426-f673f96f-d845-4084-bb54-b09394090849.png)
+![screencapture-lauraadan-github-io-Behance-Portfolio-2022-11-11-16_58_23](https://user-images.githubusercontent.com/86961241/201380431-2e7dbff7-3846-4fd6-8343-36b72c04aa0a.png)
+![screencapture-lauraadan-github-io-mid-term-ironhack-adan-laura-2022-11-11-16_57_28](https://user-images.githubusercontent.com/86961241/201380435-204fbc2b-8590-4b07-8e4f-7be5811a764c.png)
