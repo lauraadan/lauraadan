@@ -13,6 +13,7 @@
  
   - POKEAGENDA with POKEAPI and VUE 3: https://pokeagenda-6i7dy0j5k-lauraadan.vercel.app/ 
   - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura/
+   - MIDTERM IRONHACK (CSS, HTML, JAVASCRIPT, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
   - CART with JEST: https://lauraadan.github.io/Cart-with-Jest/
   - CALCULATOR with JAVASCRIPT: https://lauraadan.github.io/Calculator-with-Javascript/
@@ -20,7 +21,6 @@
   - SVG IMAGE TRANSFORM with JAVASCRIPT: https://lauraadan.github.io/SVG_Image_Transform_on_Scroll/
   - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
-  - MIDTERM IRONHACK: https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - TAB BAR ANIMATION: https://lauraadan.github.io/Tab_Bar_Animation/
   
   HTML + CSS
