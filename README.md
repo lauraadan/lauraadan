@@ -28,6 +28,7 @@
   - DRAGGABLE NAVIGATION MENU: https://lauraadan.github.io/Draggble-Navigation-Menu/
   - LEGO HARRY POTTER WEBSITE: https://lauraadan.github.io/PI_LegoPotter
   - BEHANCE PORTFOLIO: https://lauraadan.github.io/Adan_Laura_Week1_LABIronskydive-2/
+  - ANIMATED TEXT with CSS: https://lauraadan.github.io/Animated-text-with-CSS/
 </p>
 
 <p>
