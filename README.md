@@ -16,7 +16,7 @@
   - VUE 3 TAGS INPUT: https://lauraadan.github.io/Vue-Tags-Input/
   - MIDTERM IRONHACK (CSS, HTML, JAVASCRIPT, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
-  - CART with JEST: https://lauraadan.github.io/Cart-with-Jest/
+  - CART with JEST: https://lauraadan.github.io/cart-with-Jest/
   - CALCULATOR with JAVASCRIPT: https://lauraadan.github.io/Calculator-with-Javascript/
   - TIC TAC TOE: https://lauraadan.github.io/tic-tac-toe-javascript/
   - SVG IMAGE TRANSFORM with JAVASCRIPT: https://lauraadan.github.io/SVG_Image_Transform_on_Scroll/
