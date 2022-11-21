@@ -12,7 +12,7 @@
   JAVASCRIPT 
  
   - POKEAGENDA with POKEAPI and VUE 3: https://pokeagenda-6i7dy0j5k-lauraadan.vercel.app/ 
-  - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura/
+  - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Todo-List-App-Vue3/#/
   - VUE 3 TAGS INPUT: https://lauraadan.github.io/Vue-Tags-Input/
   - MIDTERM IRONHACK (CSS, HTML, JAVASCRIPT, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
