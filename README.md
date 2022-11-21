@@ -13,6 +13,7 @@
  
   - POKEAPI with VUE 3: https://poke-api-with-vue3.vercel.app/
   - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura
+  - CINEMA APP with TMDB API: https://lauraadan.github.io/Cine-App-with-TMDB_API/
   - VUE 3 TAGS INPUT: https://lauraadan.github.io/Vue-Tags-Input/
   - MIDTERM IRONHACK (CSS, HTML, JAVASCRIPT, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
@@ -41,6 +42,8 @@ Where you can find me: <a href="https://lauraadan.com">lauraadan.com</a>
 
 ![Captura de pantalla 2022-11-11 a las 16 57 15](https://user-images.githubusercontent.com/86961241/201380416-1e84c4ed-8544-433e-b710-ed33776d334c.png)
 ![Captura de pantalla 2022-11-21 a las 16 57 44](https://user-images.githubusercontent.com/86961241/203130300-881e068f-abd4-4140-b179-2ce17a4d043d.png)
+![Captura de pantalla 2022-11-21 a las 19 48 53](https://user-images.githubusercontent.com/86961241/203136173-973c20f0-3211-4c0a-901b-7b8aecb089ca.png)
+![Captura de pantalla 2022-11-21 a las 19 48 59](https://user-images.githubusercontent.com/86961241/203136179-c59367a8-e31b-424d-aa67-631136db2460.png)
 ![Captura de pantalla 2022-11-11 a las 16 57 49](https://user-images.githubusercontent.com/86961241/201380422-eff1d7f5-78cd-4039-acce-221897874163.png)
 ![Captura de pantalla 2022-11-21 a las 19 17 49](https://user-images.githubusercontent.com/86961241/203130427-9880d3b3-e1f1-43e5-ab29-78e9221b395d.png)
 ![Captura de pantalla 2022-11-11 a las 16 57 59](https://user-images.githubusercontent.com/86961241/201380426-f673f96f-d845-4084-bb54-b09394090849.png)
