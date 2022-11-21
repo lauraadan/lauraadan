@@ -18,7 +18,7 @@
   - API YES OR NO: https://api-questions-yesno.vercel.app/
   - CART with JEST: https://lauraadan.github.io/cart-with-Jest/
   - CALCULATOR with JAVASCRIPT: https://lauraadan.github.io/Calculator-with-Javascript/
-  - TIC TAC TOE: https://lauraadan.github.io/tic-tac-toe-javascript/
+  - TIC TAC TOE: https://lauraadan.github.io/TicTacToe_JS/
   - SVG IMAGE TRANSFORM with JAVASCRIPT: https://lauraadan.github.io/SVG_Image_Transform_on_Scroll/
   - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
   - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
