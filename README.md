@@ -16,6 +16,7 @@
   - VUE 3 TAGS INPUT: https://lauraadan.github.io/Vue-Tags-Input/
   - MIDTERM IRONHACK (CSS, HTML, JAVASCRIPT, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
+  - SLIDE SIGN IN SIGN UP with Vanilla JS: https://lauraadan.github.io/Slide-Sign-In-Sign-Up/
   - CART with JEST: https://lauraadan.github.io/cart-with-Jest/
   - CALCULATOR with JAVASCRIPT: https://lauraadan.github.io/Calculator-with-Javascript/
   - TIC TAC TOE: https://lauraadan.github.io/TicTacToe_JS/
@@ -25,8 +26,7 @@
   - TAB BAR ANIMATION: https://lauraadan.github.io/Tab_Bar_Animation/
   
   HTML + CSS
-  
-  - INTERACTIVE FORM: https://lauraadan.github.io/Slide-Sign-In-Sign-Up/
+ 
   - PRIMAVERA SOUND WEBSITE:  https://lauraadan.github.io/Primavera_Sound_Website/
   - FLIP CARDS with HTML and CSS: https://lauraadan.github.io/Flip-cards-with-css/
   - DRAGGABLE NAVIGATION MENU: https://lauraadan.github.io/Draggable-Navigation-Menu/
