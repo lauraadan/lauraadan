@@ -29,7 +29,7 @@
   - TAB BAR ANIMATION with Vanilla JS: https://lauraadan.github.io/Tab_Bar_Animation/
   
   HTML + CSS
- 
+  
   - PRIMAVERA SOUND WEBSITE:  https://lauraadan.github.io/Primavera_Sound_Website/
   - FLIP CARDS with HTML and CSS: https://lauraadan.github.io/Flip-cards-with-css/
   - DRAGGABLE NAVIGATION MENU: https://lauraadan.github.io/Draggable-Navigation-Menu/
