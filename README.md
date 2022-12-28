@@ -18,7 +18,7 @@
   - VUE 3 TAGS INPUT: https://lauraadan.github.io/Vue-Tags-Input/
   - MIDTERM IRONHACK (CSS, HTML, JAVASCRIPT, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
-  - CHRONOMETER with JS: https://github.com/lauraadan/chronometer_with_Js
+  - CHRONOMETER with JS: https://lauraadan.github.io/chronometer_with_Js/
   - SLIDE SIGN IN SIGN UP with Vanilla JS: https://lauraadan.github.io/Slide-Sign-In-Sign-Up/
   - CART with JEST: https://lauraadan.github.io/cart-with-Jest/
   - CALCULATOR with JAVASCRIPT: https://lauraadan.github.io/Calculator-with-Javascript/
