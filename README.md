@@ -16,7 +16,7 @@
   - CINEMA APP with TMDB API and VUE 3: https://lauraadan.github.io/Cine-App-with-TMDB_API/
   - SPACEX API with REACT: https://lauraadan.github.io/SpaceX-API-with-REACT/
   - TAGS INPUT with VUE 3: https://lauraadan.github.io/Vue-Tags-Input/
-  - MIDTERM IRONHACK (CSS, HTML, Vanilla JS, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
+  - MIDTERM IRONHACK (CSS, HTML, Vanilla JS, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura
   - API YES OR NO: https://api-questions-yesno.vercel.app/
   - CHRONOMETER with Vanilla JS: https://lauraadan.github.io/chronometer_with_Js/
   - SLIDE SIGN IN SIGN UP with Vanilla JS: https://lauraadan.github.io/Slide-Sign-In-Sign-Up/
