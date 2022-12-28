@@ -12,7 +12,7 @@
   JAVASCRIPT 
  
   - POKEAPI with VUE 3: https://poke-api-with-vue3.vercel.app/
-  - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura
+  - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Todo-App-Vue3
   - CINEMA APP with TMDB API and VUE 3: https://lauraadan.github.io/Cine-App-with-TMDB_API/
   - SPACEX API with REACT: https://lauraadan.github.io/SpaceX-API-with-REACT/
   - TAGS INPUT with VUE 3: https://lauraadan.github.io/Vue-Tags-Input/
