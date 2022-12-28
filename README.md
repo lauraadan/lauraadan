@@ -13,20 +13,20 @@
  
   - POKEAPI with VUE 3: https://poke-api-with-vue3.vercel.app/
   - TODO LIST APP with VUE 3, SUPABASE and PINIA: https://lauraadan.github.io/Final-Project-Adan-Laura
-  - CINEMA APP with TMDB API: https://lauraadan.github.io/Cine-App-with-TMDB_API/
-  - SPACEX API with REACT and REACT ROUTER: https://lauraadan.github.io/SpaceX-API-with-REACT/
-  - VUE 3 TAGS INPUT: https://lauraadan.github.io/Vue-Tags-Input/
-  - MIDTERM IRONHACK (CSS, HTML, JAVASCRIPT, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
+  - CINEMA APP with TMDB API and VUE 3: https://lauraadan.github.io/Cine-App-with-TMDB_API/
+  - SPACEX API with REACT: https://lauraadan.github.io/SpaceX-API-with-REACT/
+  - TAGS INPUT with VUE 3: https://lauraadan.github.io/Vue-Tags-Input/
+  - MIDTERM IRONHACK (CSS, HTML, Vanilla JS, API): https://lauraadan.github.io/mid-term-ironhack-adan-laura/
   - API YES OR NO: https://api-questions-yesno.vercel.app/
-  - CHRONOMETER with JS: https://lauraadan.github.io/chronometer_with_Js/
+  - CHRONOMETER with Vanilla JS: https://lauraadan.github.io/chronometer_with_Js/
   - SLIDE SIGN IN SIGN UP with Vanilla JS: https://lauraadan.github.io/Slide-Sign-In-Sign-Up/
-  - CART with JEST: https://lauraadan.github.io/cart-with-Jest/
-  - CALCULATOR with JAVASCRIPT: https://lauraadan.github.io/Calculator-with-Javascript/
-  - TIC TAC TOE: https://lauraadan.github.io/TicTacToe_JS/
-  - SVG IMAGE TRANSFORM with JAVASCRIPT: https://lauraadan.github.io/SVG_Image_Transform_on_Scroll/
-  - TODO LIST with VANILLA JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
-  - CLOCK with JAVASCRIPT: https://lauraadan.github.io/Javascript_clock/
-  - TAB BAR ANIMATION: https://lauraadan.github.io/Tab_Bar_Animation/
+  - CART with JEST and Vanilla JS: https://lauraadan.github.io/cart-with-Jest/
+  - CALCULATOR with Vanilla JS: https://lauraadan.github.io/Calculator-with-Javascript/
+  - TIC TAC TOE with Vanilla JS: https://lauraadan.github.io/TicTacToe_JS/
+  - SVG IMAGE TRANSFORM with Vanilla JS: https://lauraadan.github.io/SVG_Image_Transform_on_Scroll/
+  - TODO LIST with Vanilla JS: https://lauraadan.github.io/Simple-TodoList-VanillaJS/
+  - CLOCK with Vanilla JS: https://lauraadan.github.io/Javascript_clock/
+  - TAB BAR ANIMATION with Vanilla JS: https://lauraadan.github.io/Tab_Bar_Animation/
   
   HTML + CSS
  
